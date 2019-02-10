@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gyuri Orsi Eskuvo</title>
+    <link>http://orsigyurieskuvo.com/</link>
+    <description>Recent content on Gyuri Orsi Eskuvo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    
+	<atom:link href="http://orsigyurieskuvo.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://orsigyurieskuvo.com/gyik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://orsigyurieskuvo.com/gyik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://orsigyurieskuvo.com/hotel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://orsigyurieskuvo.com/hotel/</guid>
+      <description>Azoknak a vendégeinknek, akik Pesten szállnak meg, tervezünk egy kisbuszt biztosítani, ami éjféltől ingázik majd Pest és Leányfalu között. Akik a környéken szeretnének aludni, Leányfalun és a környező településeken kereshetnek szállásokat. Az a tapasztalatunk, hogy Leányfalun a legtöbb szállás legalább két éjszakára bérelhető, így inkább Szentendrét javasoljuk. Természetesen a kisbusz ide is elvisz majd titeket.
+Akik saját autóval érkeznek, azoknak a következő sofőrszolgálatokat tudjuk ajánlani:
+*
+Szeretnénk, hogy mindenki önfeledten bulizzon valünk, de ami fontosabb, hogy épségben haza is érjetek!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://orsigyurieskuvo.com/sched/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://orsigyurieskuvo.com/sched/</guid>
+      <description> 16:00 - Gyülekező 17:00 - Szertartás 17:30 - Csoportképek készítése, csokordobás 18:45 - Köszöntő beszédek 19:00 - Vacsora 21:00 - Első tánc 22:00 - Tortavágás 23:30 - Menyasszonytánc 24:00 - Éjféli menü  </description>
+    </item>
+    
+  </channel>
+</rss>
