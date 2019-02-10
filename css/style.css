@@ -414,6 +414,14 @@ a:active {
   text-align: left;
   font: 'Source Sans Pro', sans-serif, Helvetica, Arial, sans-serif;
 }
+
+#hotel .sub-heading h3 {
+  font-size: 26px;
+  font-weight: 300;
+  line-height: 36px;
+  color: #7e7e7e;
+  margin-bottom: 20px;
+  font-family: 'Droid Serif', serif; }
 /*--
     call-to-action start
 --*/
