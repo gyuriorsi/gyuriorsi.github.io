@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Gyuri Orsi Eskuvo</title>
-    <link>192.168.178.15/categories/</link>
+    <link>http://orsigyurieskuvo.com/categories/</link>
     <description>Recent content in Categories on Gyuri Orsi Eskuvo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hu</language>
     
-	<atom:link href="192.168.178.15/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://orsigyurieskuvo.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

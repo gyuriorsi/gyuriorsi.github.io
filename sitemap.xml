@@ -3,33 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>192.168.178.15/gyik/</loc>
+    <loc>http://orsigyurieskuvo.com/gyik/</loc>
   </url>
   
   <url>
-    <loc>192.168.178.15/hotel.1/</loc>
+    <loc>http://orsigyurieskuvo.com/hotel.1/</loc>
   </url>
   
   <url>
-    <loc>192.168.178.15/hotel/</loc>
+    <loc>http://orsigyurieskuvo.com/hotel/</loc>
   </url>
   
   <url>
-    <loc>192.168.178.15/sched/</loc>
+    <loc>http://orsigyurieskuvo.com/sched/</loc>
   </url>
   
   <url>
-    <loc>192.168.178.15/categories/</loc>
+    <loc>http://orsigyurieskuvo.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>192.168.178.15/</loc>
+    <loc>http://orsigyurieskuvo.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>192.168.178.15/tags/</loc>
+    <loc>http://orsigyurieskuvo.com/tags/</loc>
     <priority>0</priority>
   </url>
   
