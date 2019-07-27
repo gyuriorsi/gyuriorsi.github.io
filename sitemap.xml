@@ -4,18 +4,27 @@
   
   <url>
     <loc>http://orsigyurieskuvo.com/gyik/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://orsigyurieskuvo.com/hotel.1/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://orsigyurieskuvo.com/hotel/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://orsigyurieskuvo.com/picgall/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://orsigyurieskuvo.com/sched/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
